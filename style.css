@@ -55,4 +55,7 @@ width:7%;
   .image-container {
     margin: 10px;
   }
+  .loader img {
+	width:20%;
+  }
 }
